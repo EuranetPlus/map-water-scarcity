@@ -1,12 +1,12 @@
 {
-  "heading": "Euroopa riikide veepuuduse tingimused 2019. aastal",
-  "subheading": "Euroopa riigi halvimad hooajalised veepuuduse olukorrad, mis on määratud veekasutusindeksiga.",
-  "legend1": "Andmed puuduvad",
+  "heading": "Veepuuduse tingimused Euroopa riikides 2022. aastal",
+  "subheading": "Euroopa riigi halvimad hooajalised veepuuduse asjaolud, mis on määratud veekasutuse indeksi järgi.",
+  "legend1": "Andmed pole saadaval",
   "tooltip1": "",
   "textSourceDescription": "Allikas",
   "textSource": "EMP",
-  "textNoteDescription": "Märge",
-  "textNote": "WEI+ väärtused on antud protsentides, s.t veekasutus protsendina taastuvatest veevarudest.",
+  "textNoteDescription": "Märkus",
+  "textNote": "WEI+ väärtused on esitatud protsentides, st veekasutus taastuvate veevarude protsendina.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://www.eea.europa.eu/ims/use-of-freshwater-resources-in-europe-1",
   "textCountryClick": "Lisateabe saamiseks klõpsake"

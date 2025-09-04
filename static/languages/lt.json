@@ -1,13 +1,13 @@
 {
-  "heading": "Vandens trūkumo sąlygos Europos šalims 2019 m",
-  "subheading": "Europos šalies blogiausios sezoninės vandens trūkumo sąlygos, nulemtos vandens naudojimo indekso.",
+  "heading": "Vandens trūkumo sąlygos Europos šalyse 2022 m.",
+  "subheading": "Blogiausios sezoninio vandens trūkumo aplinkybės Europos šalyje, nustatytos pagal vandens eksploatavimo indeksą.",
   "legend1": "Nėra duomenų",
   "tooltip1": "",
   "textSourceDescription": "Šaltinis",
   "textSource": "EEE",
   "textNoteDescription": "Pastaba",
-  "textNote": "WEI+ reikšmės pateikiamos procentais, t.y. vandens sunaudojimas kaip atsinaujinančių vandens išteklių procentas.",
-  "textDataAccess": "Pasiekite duomenis",
+  "textNote": "WEI+ vertės pateikiamos procentais, t. y. vandens sunaudojimas kaip atsinaujinančių vandens išteklių procentinė dalis.",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://www.eea.europa.eu/ims/use-of-freshwater-resources-in-europe-1",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

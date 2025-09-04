@@ -1,13 +1,13 @@
 {
-  "heading": "Uvjeti nestašice vode za europske zemlje u 2019",
-  "subheading": "Najgora sezonska nestašica vode u europskoj zemlji određena indeksom iskorištenja vode.",
+  "heading": "Uvjeti nestašice vode za europske zemlje u 2022. godini",
+  "subheading": "Najgore sezonske okolnosti nestašice vode u europskim zemljama utvrđene indeksom iskorištavanja vode.",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "",
   "textSourceDescription": "Izvor",
   "textSource": "EGP",
   "textNoteDescription": "Bilješka",
-  "textNote": "WEI+ vrijednosti dane su kao postoci, tj. korištenje vode kao postotak obnovljivih vodnih resursa.",
-  "textDataAccess": "Pristupite podacima",
-  "linkDataAccess": "https://www.eea.europa.eu/ims/use-of-reshwater-resources-in-europe-1",
+  "textNote": "Vrijednosti WEI+ dane su u postocima, tj. potrošnja vode kao postotak obnovljivih vodnih resursa.",
+  "textDataAccess": "Pristup podacima",
+  "linkDataAccess": "https://www.eea.europa.eu/ims/use-of-freshwater-resources-in-europe-1",
   "textCountryClick": "Kliknite za više informacija"
 }

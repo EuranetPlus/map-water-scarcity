@@ -1,13 +1,13 @@
 {
-  "heading": "Condițiile deficitului de apă pentru țările europene în 2019",
-  "subheading": "Cele mai grave situații sezoniere ale penuriei de apă din țară europeană, determinate de indicele de exploatare a apei.",
-  "legend1": "Nici o informatie disponibila",
+  "heading": "Condițiile de deficit de apă pentru țările europene în 2022",
+  "subheading": "Cele mai grave circumstanțe de deficit sezonier de apă din țările europene, determinate de indicele de exploatare a apei.",
+  "legend1": "Nu sunt disponibile date",
   "tooltip1": "",
   "textSourceDescription": "Sursă",
   "textSource": "SEE",
-  "textNoteDescription": "Notă",
-  "textNote": "Valorile WEI+ sunt date ca procente, adică utilizarea apei ca procent din resursele regenerabile de apă.",
+  "textNoteDescription": "Nota",
+  "textNote": "Valorile WEI+ sunt date ca procente, adică utilizarea apei ca procent din resursele de apă regenerabile.",
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://www.eea.europa.eu/ims/use-of-freshwater-resources-in-europe-1",
-  "textCountryClick": "Click pentru mai multe informații"
+  "textCountryClick": "Faceți clic pentru mai multe informații"
 }

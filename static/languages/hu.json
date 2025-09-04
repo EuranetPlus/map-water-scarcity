@@ -1,13 +1,13 @@
 {
-  "heading": "Vízhiány feltételei az európai országokban 2019-ben",
-  "subheading": "Az európai ország legrosszabb szezonális vízhiány-körülményei a vízkitermelési index alapján.",
-  "legend1": "Nincs elérhető adat",
+  "heading": "Vízhiányos helyzet az európai országokban 2022-ben",
+  "subheading": "Az európai országok legrosszabb szezonális vízhiányos körülményei a vízkitermelési index alapján.",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltip1": "",
   "textSourceDescription": "Forrás",
   "textSource": "EGT",
-  "textNoteDescription": "jegyzet",
-  "textNote": "A WEI+ értékek százalékban vannak megadva, azaz a vízfelhasználás a megújuló vízkészlet százalékában.",
+  "textNoteDescription": "Jegyzet",
+  "textNote": "A WEI+ értékeket százalékban adják meg, azaz a vízfelhasználást a megújuló vízkészletek százalékában adják meg.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://www.eea.europa.eu/ims/use-of-freshwater-resources-in-europe-1",
-  "textCountryClick": "További információért kattintson"
+  "textCountryClick": "Kattintson a további információkért"
 }

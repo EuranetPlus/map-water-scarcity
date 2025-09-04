@@ -1,13 +1,13 @@
 {
-  "heading": "Vattenbristförhållanden för europeiska länder 2019",
-  "subheading": "Det europeiska landets värsta säsongsbetonade vattenbristförhållanden som bestäms av vattenexploateringsindexet.",
-  "legend1": "Ingen data tillgänglig",
+  "heading": "Vattenbristförhållanden för europeiska länder år 2022",
+  "subheading": "Europas värsta säsongsbetonade vattenbristsituation enligt vattenutnyttjandeindex.",
+  "legend1": "Inga data tillgängliga",
   "tooltip1": "",
   "textSourceDescription": "Källa",
   "textSource": "EES",
   "textNoteDescription": "Notera",
-  "textNote": "WEI+-värden anges i procent, det vill säga vattenanvändning i procent av förnybara vattenresurser.",
-  "textDataAccess": "Få åtkomst till data",
+  "textNote": "WEI+-värden anges som procentandelar, d.v.s. vattenanvändning som andel av förnybara vattenresurser.",
+  "textDataAccess": "Åtkomst till data",
   "linkDataAccess": "https://www.eea.europa.eu/ims/use-of-freshwater-resources-in-europe-1",
-  "textCountryClick": "Klicka för mer info"
+  "textCountryClick": "Klicka för mer information"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Wasserknappheitsbedingungen für europäische Länder im Jahr 2019",
-  "subheading": "Die schlimmsten Umstände der saisonalen Wasserknappheit in einem europäischen Land, wie durch den Wassernutzungsindex bestimmt.",
+  "heading": "Wasserknappheit in den europäischen Ländern im Jahr 2022",
+  "subheading": "Laut dem Wassernutzungsindex ist dies das Land mit der schlimmsten saisonalen Wasserknappheit.",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "",
   "textSourceDescription": "Quelle",
   "textSource": "EWR",
   "textNoteDescription": "Notiz",
-  "textNote": "WEI+-Werte werden in Prozent angegeben, d. h. Wasserverbrauch in Prozent der erneuerbaren Wasserressourcen.",
-  "textDataAccess": "Greifen Sie auf die Daten zu",
+  "textNote": "Die WEI+-Werte werden in Prozent angegeben, d. h. der Wasserverbrauch als Prozentsatz der erneuerbaren Wasserressourcen.",
+  "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://www.eea.europa.eu/ims/use-of-freshwater-resources-in-europe-1",
-  "textCountryClick": "Klicken Sie für weitere Informationen"
+  "textCountryClick": "Klicken Sie hier für weitere Informationen"
 }

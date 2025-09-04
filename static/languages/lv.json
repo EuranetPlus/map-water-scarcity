@@ -1,13 +1,13 @@
 {
-  "heading": "Ūdens trūkuma apstākļi Eiropas valstīm 2019. gadā",
-  "subheading": "Eiropas valsts sliktākie sezonālā ūdens trūkuma apstākļi, ko nosaka ūdens izmantošanas indekss.",
-  "legend1": "Nav pieejami dati",
+  "heading": "Ūdens trūkuma apstākļi Eiropas valstīs 2022. gadā",
+  "subheading": "Eiropas valsts sliktākie sezonālie ūdens trūkuma apstākļi, ko nosaka ūdens izmantošanas indekss.",
+  "legend1": "Dati nav pieejami",
   "tooltip1": "",
   "textSourceDescription": "Avots",
   "textSource": "EEZ",
   "textNoteDescription": "Piezīme",
-  "textNote": "WEI+ vērtības ir norādītas procentos, t.i., ūdens patēriņš procentos no atjaunojamiem ūdens resursiem.",
+  "textNote": "WEI+ vērtības ir norādītas procentos, t. i., ūdens patēriņš kā atjaunojamo ūdens resursu procentuālā daļa.",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://www.eea.europa.eu/ims/use-of-freshwater-resources-in-europe-1",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

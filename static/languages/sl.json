@@ -1,13 +1,13 @@
 {
-  "heading": "Pogoji pomanjkanja vode v evropskih državah v letu 2019",
-  "subheading": "Najhujše sezonsko pomanjkanje vode v evropski državi, kot je določeno z indeksom izkoriščanja vode.",
-  "legend1": "Ni podatkov",
+  "heading": "Razmere pomanjkanja vode v evropskih državah leta 2022",
+  "subheading": "Najhujše sezonske razmere pomanjkanja vode v evropski državi, kot jih določa indeks izkoriščanja vode.",
+  "legend1": "Ni na voljo podatkov",
   "tooltip1": "",
   "textSourceDescription": "Vir",
   "textSource": "EGP",
   "textNoteDescription": "Opomba",
   "textNote": "Vrednosti WEI+ so podane v odstotkih, tj. poraba vode kot odstotek obnovljivih vodnih virov.",
-  "textDataAccess": "Dostopajte do podatkov",
+  "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://www.eea.europa.eu/ims/use-of-freshwater-resources-in-europe-1",
   "textCountryClick": "Kliknite za več informacij"
 }

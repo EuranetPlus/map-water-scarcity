@@ -1,13 +1,13 @@
 {
-  "heading": "Warunki niedoboru wody w krajach europejskich w 2019 r",
-  "subheading": "Najgorsze sezonowe niedobory wody w kraju europejskim określone na podstawie wskaźnika eksploatacji wody.",
+  "heading": "Warunki niedoboru wody w krajach europejskich w 2022 r.",
+  "subheading": "Najgorsze okoliczności związane z sezonowym niedoborem wody w krajach europejskich, określone na podstawie wskaźnika zużycia wody.",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "",
   "textSourceDescription": "Źródło",
   "textSource": "EOG",
   "textNoteDescription": "Notatka",
-  "textNote": "Wartości WEI+ podane są w procentach, tj. zużycie wody jako procent odnawialnych zasobów wodnych.",
-  "textDataAccess": "Uzyskaj dostęp do danych",
-  "linkDataAccess": "https://www.eea.europa.eu/ims/use-of-freshwater-resources-in-europe-1",
+  "textNote": "Wartości WEI+ podawane są w procentach, tzn. zużycie wody jako procent odnawialnych zasobów wodnych.",
+  "textDataAccess": "Dostęp do danych",
+  "linkDataAccess": "https://www.eea.europa.eu/ims/wykorzystanie-zasobów-swiezej-wody-w-europie-1",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

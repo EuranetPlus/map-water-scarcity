@@ -1,13 +1,13 @@
 {
-  "heading": "Waterschaarste voor Europese landen in 2019",
-  "subheading": "De slechtste seizoensgebonden watertekortsituatie van het Europese land, zoals bepaald door de waterexploitatie-index.",
+  "heading": "Waterschaarste voor Europese landen in 2022",
+  "subheading": "De ergste seizoensgebonden waterschaarste in een Europees land, bepaald door de waterexploitatie-index.",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "",
   "textSourceDescription": "Bron",
   "textSource": "EER",
   "textNoteDescription": "Opmerking",
-  "textNote": "WEI+ waarden worden gegeven als percentages, d.w.z. waterverbruik als percentage van hernieuwbare waterbronnen.",
+  "textNote": "WEI+-waarden worden weergegeven als percentages, d.w.z. het watergebruik als percentage van de hernieuwbare waterbronnen.",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://www.eea.europa.eu/ims/use-of-freshwater-resources-in-europe-1",
-  "textCountryClick": "Klik voor meer info"
+  "textCountryClick": "Klik voor meer informatie"
 }

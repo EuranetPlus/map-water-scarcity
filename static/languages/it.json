@@ -1,12 +1,12 @@
 {
-  "heading": "Condizioni di scarsità d'acqua per i paesi europei nel 2019",
-  "subheading": "Le peggiori circostanze di carenza idrica stagionale del paese europeo, determinate dall'indice di sfruttamento dell'acqua.",
+  "heading": "Condizioni di scarsità d'acqua per i paesi europei nel 2022",
+  "subheading": "Le peggiori situazioni di carenza idrica stagionale nei paesi europei, secondo l'indice di sfruttamento idrico.",
   "legend1": "Nessun dato disponibile",
   "tooltip1": "",
   "textSourceDescription": "Fonte",
   "textSource": "SEE",
   "textNoteDescription": "Nota",
-  "textNote": "I valori WEI+ sono espressi in percentuale, ovvero l'utilizzo dell'acqua come percentuale delle risorse idriche rinnovabili.",
+  "textNote": "I valori WEI+ sono espressi in percentuale, ovvero l'uso dell'acqua è espresso in percentuale di risorse idriche rinnovabili.",
   "textDataAccess": "Accedi ai dati",
   "linkDataAccess": "https://www.eea.europa.eu/ims/use-of-freshwater-resources-in-europe-1",
   "textCountryClick": "Clicca per maggiori informazioni"

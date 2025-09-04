@@ -1,13 +1,13 @@
 {
-  "heading": "Coinníollacha ganntanas uisce do thíortha Eorpacha in 2019",
-  "subheading": "Cúinsí séasúracha ganntanas uisce na tíre Eorpach de réir mar a chinneann an t-innéacs saothraithe uisce.",
+  "heading": "Ganntanas uisce i dtíortha na hEorpa in 2022",
+  "subheading": "Na himthosca ganntanas uisce séasúrach is measa i dtír na hEorpa de réir mar a chinntear san innéacs saothraithe uisce.",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltip1": "",
   "textSourceDescription": "Foinse",
   "textSource": "LEE",
   "textNoteDescription": "Nóta",
   "textNote": "Tugtar luachanna WEI+ mar chéatadáin, i.e. úsáid uisce mar chéatadán d’acmhainní uisce in-athnuaite.",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
+  "textDataAccess": "Rochtain ar na sonraí",
   "linkDataAccess": "https://www.eea.europa.eu/ims/use-of-freshwater-resources-in-europe-1",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }

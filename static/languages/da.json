@@ -1,13 +1,13 @@
 {
-  "heading": "Vandknaphed for europæiske lande i 2019",
-  "subheading": "Europæisk lands værste sæsonbetingede vandmangel omstændigheder som bestemt af vandudnyttelsesindekset.",
-  "legend1": "Ingen tilgængelig data",
+  "heading": "Vandmangel i europæiske lande i 2022",
+  "subheading": "Det europæiske lands værste sæsonbestemte vandmangel ifølge vandudnyttelsesindekset.",
+  "legend1": "Ingen data tilgængelige",
   "tooltip1": "",
   "textSourceDescription": "Kilde",
   "textSource": "EØS",
-  "textNoteDescription": "Bemærk",
-  "textNote": "WEI+ værdier er angivet i procent, dvs. vandforbrug som en procentdel af vedvarende vandressourcer.",
-  "textDataAccess": "Få adgang til data",
+  "textNoteDescription": "Note",
+  "textNote": "WEI+-værdier er angivet som procentdele, dvs. vandforbrug som en procentdel af vedvarende vandressourcer.",
+  "textDataAccess": "Få adgang til dataene",
   "linkDataAccess": "https://www.eea.europa.eu/ims/use-of-freshwater-resources-in-europe-1",
-  "textCountryClick": "Klik for mere info"
+  "textCountryClick": "Klik for mere information"
 }

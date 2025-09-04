@@ -1,13 +1,13 @@
 {
-  "heading": "Kundizzjonijiet tal-iskarsezza tal-ilma għall-pajjiżi Ewropej fl-2019",
-  "subheading": "L-agħar ċirkustanzi staġjonali ta' nuqqas ta' ilma tal-pajjiż Ewropew kif determinati mill-indiċi tal-isfruttament tal-ilma.",
-  "legend1": "Ebda data disponibbli",
+  "heading": "Kundizzjonijiet ta' skarsezza tal-ilma għall-pajjiżi Ewropej fl-2022",
+  "subheading": "L-agħar ċirkostanzi staġjonali ta' nuqqas ta' ilma f'pajjiż Ewropew kif determinati mill-indiċi tal-isfruttament tal-ilma.",
+  "legend1": "L-ebda dejta disponibbli",
   "tooltip1": "",
   "textSourceDescription": "Sors",
   "textSource": "ŻEE",
   "textNoteDescription": "Nota",
-  "textNote": "Il-valuri WEI+ huma mogħtija bħala perċentwali, jiġifieri l-użu tal-ilma bħala perċentwal tar-riżorsi tal-ilma rinnovabbli.",
-  "textDataAccess": "Aċċessa għad-data",
+  "textNote": "Il-valuri tal-WEI+ jingħataw bħala perċentwali, jiġifieri l-użu tal-ilma bħala perċentwal tar-riżorsi tal-ilma rinnovabbli.",
+  "textDataAccess": "Aċċessa d-dejta",
   "linkDataAccess": "https://www.eea.europa.eu/ims/use-of-freshwater-resources-in-europe-1",
-  "textCountryClick": "Ikklikkja għal aktar informazzjoni"
+  "textCountryClick": "Ikklikkja għal aktar tagħrif"
 }

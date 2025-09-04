@@ -1,13 +1,13 @@
 {
-  "heading": "Condiciones de escasez de agua para los países europeos en 2019",
-  "subheading": "Las peores circunstancias estacionales de escasez de agua del país europeo según lo determinado por el índice de explotación del agua.",
-  "legend1": "Datos no disponibles",
+  "heading": "Situación de escasez de agua en los países europeos en 2022",
+  "subheading": "Las peores circunstancias de escasez de agua estacional en los países europeos según el índice de explotación del agua.",
+  "legend1": "No hay datos disponibles",
   "tooltip1": "",
   "textSourceDescription": "Fuente",
   "textSource": "EEE",
   "textNoteDescription": "Nota",
-  "textNote": "Los valores WEI+ se dan como porcentajes, es decir, el uso del agua como porcentaje de los recursos hídricos renovables.",
-  "textDataAccess": "Accede a los datos",
-  "linkDataAccess": "https://www.eea.europa.eu/ims/use-of-freshwater-resources-in-europe-1",
-  "textCountryClick": "Haga clic para obtener más información"
+  "textNote": "Los valores WEI+ se dan como porcentajes, es decir, el uso de agua como porcentaje de los recursos hídricos renovables.",
+  "textDataAccess": "Acceder a los datos",
+  "linkDataAccess": "https://www.eea.europa.eu/ims/uso-de-los-recursos-de-agua-dulce-en-europa-1",
+  "textCountryClick": "Haga clic para más información"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Veden niukkuus Euroopan maissa vuonna 2019",
-  "subheading": "Euroopan maan pahin kausiluonteinen vesipula vedenkäyttöindeksin mukaan.",
-  "legend1": "Tietoja ei ole saatavilla",
+  "heading": "Vesipulan tilanne Euroopan maissa vuonna 2022",
+  "subheading": "Euroopan maan pahimmat kausittaiset vesipulaolosuhteet vedenkäyttöindeksin perusteella.",
+  "legend1": "Ei tietoja saatavilla",
   "tooltip1": "",
   "textSourceDescription": "Lähde",
   "textSource": "ETA",
   "textNoteDescription": "Huomautus",
-  "textNote": "WEI+-arvot on annettu prosentteina, eli vedenkäyttö prosentteina uusiutuvista vesivaroista.",
+  "textNote": "WEI+-arvot annetaan prosentteina eli vedenkulutus prosentteina uusiutuvista vesivaroista.",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://www.eea.europa.eu/ims/use-of-freshwater-resources-in-europe-1",
-  "textCountryClick": "Napsauta saadaksesi lisätietoja"
+  "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }

@@ -1,12 +1,12 @@
 {
-  "heading": "Podmienky nedostatku vody v európskych krajinách v roku 2019",
-  "subheading": "Najhorší sezónny nedostatok vody v európskej krajine podľa indexu využívania vody.",
+  "heading": "Nedostatok vody v európskych krajinách v roku 2022",
+  "subheading": "Najhoršie podmienky sezónneho nedostatku vody v európskej krajine podľa indexu využívania vody.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltip1": "",
   "textSourceDescription": "Zdroj",
-  "textSource": "EEA",
+  "textSource": "EHP",
   "textNoteDescription": "Poznámka",
-  "textNote": "Hodnoty WEI+ sú uvedené v percentách, t. j. spotreba vody ako percento obnoviteľných zdrojov vody.",
+  "textNote": "Hodnoty WEI+ sú uvedené v percentách, t. j. spotreba vody ako percento obnoviteľných vodných zdrojov.",
   "textDataAccess": "Prístup k údajom",
   "linkDataAccess": "https://www.eea.europa.eu/ims/use-of-freshwater-resources-in-europe-1",
   "textCountryClick": "Kliknite pre viac informácií"
